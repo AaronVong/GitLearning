@@ -11,7 +11,11 @@ class Person {
     console.log("i'm running");
   }
 
-  sleep() {
-    console.log("i'm sleeping");
+  jump() {
+    console.log("i'm jumping");
+  }
+
+  fight() {
+    console.log("i'm fighting");
   }
 }
