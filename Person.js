@@ -1,5 +1,5 @@
-class Person{
-	function speak(){
-		console.log("hello world");
-	}
+class Person {
+  jump() {
+    console.log("i'm jumping");
+  }
 }
