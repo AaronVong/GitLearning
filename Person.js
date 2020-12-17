@@ -10,7 +10,4 @@ class Person {
   run() {
     console.log("i'm running");
   }
-  jump() {
-    console.log("i'm jumping");
-  }
 }
