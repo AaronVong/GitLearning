@@ -10,4 +10,8 @@ class Person {
   run() {
     console.log("i'm running");
   }
+
+  sleep() {
+    console.log("i'm sleeping");
+  }
 }
