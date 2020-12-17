@@ -6,4 +6,8 @@ class Person {
   walk() {
     console.log("i'm walking");
   }
+
+  run() {
+    console.log("i'm running");
+  }
 }
