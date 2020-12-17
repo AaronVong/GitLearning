@@ -1,5 +1,9 @@
-class Person{
-	function speak(){
-		console.log("hello world");
-	}
+class Person {
+  speak() {
+    console.log("hello world");
+  }
+
+  walk() {
+    console.log("i'm walking");
+  }
 }
