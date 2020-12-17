@@ -18,4 +18,8 @@ class Person {
   fight() {
     console.log("i'm fighting");
   }
+
+  sleep() {
+    console.log("i'm sleeping");
+  }
 }
