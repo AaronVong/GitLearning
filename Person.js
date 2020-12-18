@@ -6,4 +6,8 @@ class Person {
   fight() {
     console.log("i'm fighting");
   }
+
+  kick() {
+    console.log("i'm kicking");
+  }
 }
